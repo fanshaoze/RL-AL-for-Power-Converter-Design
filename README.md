@@ -9,8 +9,8 @@
 - [File Structure](#file-structure)
 - [Surrogate Model: Setting](#setting)
 - [Surrogate Model: Training](#Model-Training)
-- [RL-based Converter Design: Setting](#RL-based Converter Design-Setting)
-- [RL-based Converter Design: Generation](#RL-based Converter Design-Generation)
+- [RL-based Converter Design: Setting](#RL-based-Converter-Design-Setting)
+- [RL-based Converter Design: Generation](#RL-based-Converter-Design-Generation)
 - [Result](#result)
 
 
